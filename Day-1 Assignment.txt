@@ -1,0 +1,20 @@
+Day-1 
+Machine Learning
+                Machine learning is type of Artificial Intelligence which enables self learning from data and 
+                processes the learned data  without human brain or human involvment.
+                The primary aim is to allow computers to learn automatically without human involvment.
+                ML learns from data and perfoms a task and gain some experience and 
+                again performs same task which provides better accuray results.
+Machine learning provides statistical tools to learn from data.
+Statistical tools are mainly classified into 3 types:
+                        1-Supervised learning
+                        2-unsupervised learning
+                        3-Re inforcement learning
+Example for Machine learning:
+        Medical analysis:
+                        ML can be used in medcial analysis.
+                        prediction of the disease based on the previous test results which  informs earlier about the disease.
+                        Based on the information provided by machine we can also plan a theraph for the disease.
+         This Medical analysis can be used in Health sectors.
+conclusion 
+            Machine learning applications are one of the ways through which technology can improve our lives.                        
